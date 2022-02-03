@@ -1,0 +1,8 @@
+1) Написать скрипты для таблиц user, role, user_role
+(файл schema.sql в директории resources, диаграмма там же)
+
+2) Написать Entity-классы для них же (User, Role, пакет ru.specialist.spring.entity)
+
+3) Написать Repository-интерфейсы для этих сущностей (пакет ru.specialist.spring.dao.repository)
+
+4) Написать к репозиториям тесты (наподобии PostRepositoryTest)
